@@ -1,3 +1,6 @@
+// I showed creativity and exceeded the requirements by creating program that logs the activity usage 
+// and ensuring all prompts/questions are used once before repeating within a session.
+
 using System;
 
 class Program
